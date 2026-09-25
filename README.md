@@ -6,7 +6,7 @@ I implemented ray and ghost tracing in Python/NumPy as part of a Spring 2021 CS1
 
 The notebook models rays by their height and angle and composes translation, refraction, and reflection matrices through a multi-element lens. It explores two-reflection ghost paths, wavelength-dependent refractive indices for red, green, and blue light, aperture-boundary ray recasting, and ghost-size estimates.
 
-This is my exploratory ray-tracing notebook from the project, rather than a complete reproduction of the paper's real-time renderer. It retains unfinished experimental cells and requires cleanup to run end to end.
+The integrated code and C++ implementation are in the [lens-flare project repository](https://github.com/aatifjiwani/lens-flare).
 
 ## Paper
 
